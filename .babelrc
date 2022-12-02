@@ -1,0 +1,3 @@
+{
+  // "presets": ["@babel/preset-env"] // 预设就是多个插件的集合, 会根据配置的目标环境(.browserslistrc)，来生成插件列表来编译
+}
